@@ -1,11 +1,6 @@
-<img align="left" height="350" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHAzcW9iODdvcXhxN3FpdHd0a2RtZzF0cG12ajEyZXNhNG1qdjN4aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5jYcUPGBGgUioiBq4r/giphy.gif"/>
-
-###
-
-<div align="right">
-  <a href="https://open.spotify.com/user/217h5wxtouhbaoagsby7a7u7y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=217h5wxtouhbaoagsby7a7u7y&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ramitaaas17&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramitaaas17&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -58,6 +53,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/217h5wxtouhbaoagsby7a7u7y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=217h5wxtouhbaoagsby7a7u7y&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
